@@ -13,7 +13,7 @@ export default function ChatAvatar({ role }) {
         <div className="flex h-8 w-8 shrink-0 select-none items-center justify-center rounded-md border bg-black text-white shadow">
             <img
                 className="rounded-md h-24 w-24"
-                src="/llama.png"
+                src="../../public/llama.png"
                 alt="Llama Logo"
                 priority
             />
